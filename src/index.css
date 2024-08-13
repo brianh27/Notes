@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(255, 0, 0);
+  
+    font-style: italic;
+}
+li {
+    color: rgb(93, 0, 255);
+    padding-top: 5px;
+    font-style: bold;
+    font-size: 20px;
+}
+.note {
+    color: rgb(0, 255, 8);
+    padding-top: 5px;
+    font-style: italic;
+    font-size: 16px;
+}
